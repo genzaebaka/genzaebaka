@@ -5,19 +5,15 @@
 [![GitHub reznichenkodev](https://img.shields.io/github/followers/reznichenkodev?label=follow&style=social)](https://github.com/reznichenkodev)
 
 ```javascript
-const Danil = {
-  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, NodeJS],
   tools: [React, Redux, Storybook, Styled - Components, Jest, Docker],
   architecture: [
     "microservices",
     "event-driven",
-    "design system pattern",
     "single page applications",
   ],
-  devOps: ["Docker🐳"],
+  devOps: ["Docker"],
   databases: ["mongo", "MySql"],
-};
 ```
 
 ---
